@@ -20,7 +20,7 @@ class Exam:
             obtained_marks = float(input("Enter Obtained Marks: "))
 
             if obtained_marks > total_marks:
-                print("Obtained marks can\"t be greater than total marks")
+                print("Obtained marks can't be greater than total marks")
                 continue
 
             marks = Marks(subject, total_marks, obtained_marks)
