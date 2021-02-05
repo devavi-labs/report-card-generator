@@ -1,0 +1,9 @@
+# cache
+**/__pycache__
+
+# virtual environment
+venv
+
+# generated reports
+/generated/**.json
+

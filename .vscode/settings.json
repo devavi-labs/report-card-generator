@@ -1,0 +1,5 @@
+{
+    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    "python.formatting.provider": "autopep8",
+    "editor.defaultFormatter": "ms-python.python"
+}
